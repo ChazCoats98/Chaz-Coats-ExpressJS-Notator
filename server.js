@@ -3,7 +3,6 @@ var path = require("path");
 var PORT = process.env.PORT || 3001;
 var app = express();
 var api = require("./routes/apiRoute");
-var db = require("./db/db.json");
 
 //these functions are used to parse JSON and url encoded data 
 app.use(express.json());
