@@ -27,6 +27,8 @@ app.post("/", (req, res) => {
 
 //I did cheat here a little.
 //I looked at the solved mini project and tried to reverse engineer it.
+//it does not remove notes completely. When a new note is added the old notes are re posted
+//might fix in the future.
 app.delete("/:id", (req, res) => {
     var id = req.params.id;
     readFromFile("./db/db.json")
