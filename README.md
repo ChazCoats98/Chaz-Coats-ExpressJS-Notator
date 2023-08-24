@@ -26,7 +26,8 @@
   No guidelines. Freely contribute.
 
   ## Demo
-  
+  [Untitled_ Aug 24, 2023 8_23 AM.webm](https://github.com/ChazCoats98/Chaz-Coats-ExpressJS-Notator/assets/134428862/2fcfd506-4dea-4aba-8d44-abde40868fe4)
+
 
   ## Questions
   To view my GitHub profile, visit [GitHub] (https://github.com/ChazCoats98).
